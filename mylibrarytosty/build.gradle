@@ -6,11 +6,11 @@ plugins {
 
 android {
     namespace 'com.example.mylibrarytosty'
-    compileSdk 32
+    compileSdk 34
 
     defaultConfig {
         minSdk 25
-        targetSdk 32
+        targetSdk 34
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         consumerProguardFiles "consumer-rules.pro"
